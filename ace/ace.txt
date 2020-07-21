@@ -46,7 +46,7 @@ a.²ÉÓÃ»ùÓÚ¸ºÔØ¾ùºâ¼¯ÈºµÄ·½·¨½øÐÐÏµÍ³Éý¼¶£¬Êý¾Ý¿âÓÉRDS»»ÎªDRDS£¬ÐÔÄÜ¼´¿ÉµÃµ½ÌáÉý
 b.Ô­ÓÐÏµÍ³½øÐÐÖØ¹¹£¬ÍøÉÏ½»Ò×ÏµÍ³ÐèÒªÐÞ¸Ä·Ö²¼Ê½Î¢·þÎñ¼Ü¹¹£¬Êý¾Ý²ÉÓÃ·Ö¿â·Ö±íÉè¼Æ£¬·Ö²¼Ê½»¯
 c.²ÉÓÃ»ùÓÚ¸ºÔØ¾ùºâ¼¯ÈºµÄ·½·¨½øÐÐÏµÍ³Éý¼¶£¬Ô­ÓÐÏµÍ³ÐèÒªÐÞ¸Ä³ÉÎÞ×´Ì¬µÄÓ¦ÓÃ£¬Êý¾Ý¿âÓëÓ¦ÓÃ·ÖÀë
 d.²ÉÓÃ»ùÓÚ¸ßÐÔÄÜÖ÷»úÏµÍ³µÄ·½·¨½øÐÐÏµÍ³Éý¼¶£¬½«Êý¾Ý¿âÓëÓ¦ÓÃ·ÖÀë£¬ÐÔÄÜ¼´¿ÉµÃµ½ÌáÉý
-Answer: c
+Answer: b
 Q8.ÕÅÏÈÉúÊÇ×îÔçÒ»ÅúÊ¹ÓÃDRDS²úÆ·µÄ¿Í»§£¬µ±³õDRDSºÍRDS¾ùÔÚ¾­µäÍøÂç£¬ÏÖÔÚÎªÁËÀûÓÃVPCµÄÁé»îºÍ¸ß¸ôÀëÌØÐÔ£¬ÏëÊµÏÖÏòVPCµÄÇ¨ÒÆ£¬ÇëÎÊ¸ÃÈçºÎ²Ù×÷²Å¿ÉË³ÀûÊµÏÖ?
 Ñ¡ÔñÒ»Ïî£º
 a.DRDSÍê³ÉVPCµÄÇÐ»»£¬½Ó×Å×ÔÖúÐÞ¸´ÓëRDSµÄ·Ö¿âÁ¬½Ó³Ø¼´¿É
@@ -162,7 +162,7 @@ a.Ê¹ÓÃMQ²úÆ··¬»»¿ªÔ´Èí¼þ×÷ÎªÏûÏ¢·þÎñ£¬½«´¦ÀíÊý¾ÝµÄECS·ÅÖÃÔÚAutoscaling ×éÖÐ£¬Í¨¹
 b.²»¸Ä±äÏÖÓÐÏûÏ¢¶ÓÁÐµÄ²¿Êð·½Ê½£¬½«´¦ÀíÊý¾ÝµÄECS·ÅÖÃÔÚAutoscaling×éÖÐ£¬Í¨¹ýÉèÖÃÔÆ¼à¿Ø¸ù¾ÝCPUÊ¹ÓÃÐÒµ÷ÕûECSµÄÊýÁ¿£¬Êý¾Ý´¦ÀíÍê±ÏÖ®ºó£¬Í¨¹ýLifecycleÉèÖÃ²ßÂÔ½«´æ´¢ÔÚOSSÖÐµÄ60ÌìÊý¾ÝµÄ´æÐµ¼¶±ð¸ü¸ÄÎªµÍÐë·ÃÎÊÀàÐÍ
 c.²»¸Ä±äÏÖÓÐÏûÏ¢¶ÓÁÐµÄ²¿Êð·½Ê½£¬½«´¦ÀíÊý¾ÝµÄECS·ÅÖÃÔÚAutoscaling×éÖÐ,Í¨¹ýÉèÖÃÔÆ¼à¿Ø¸ù¾ÝCPUÊ¹ÓÃÂÊµ÷ÕûECSµÄÊýÁ¿£¬Êý¾Ý´¦ÀíÍê±ÏÖ®ºó£¬Í¨¹ýLifecycleÉèÖÃ²ßÂÔ½«´æ´¢ÔÚOSSÖÐµÄ60ÌìÊý¾ÝµÄ´æ´¢¼¶±ð¸ü¸ÄÎª¹éµµ·ÃÎÊÀàÐÍ
 d.Ê¹ÓÃMQ²úÆ·Ìæ»»¿ªÔ´Èí¼þ×÷ÎªÏûÏ¢·þÎñ£¬½«´¦ÀíÊýËªµÄECS·ÅÖÃÔÚAutoscaling ×éÖÐ£¬Í¨¹ýÉèÖÃÔÆ¼à¿Ø¸ù¾ÝCPUÊ¹ÓÃÐÒµ÷ÕûECSµÄÊýÁ¿£¬Êý¾Ý´¦ÀíÍê±ÏÖ®ºó£¬Í¨¹ýLifecycleÉèÖÃ²ßÅâ½«´æ´¢ÔÚOSSÖÐµÄ60ÌìÊý¾ÝµÄ´æ´¢¼¶±ð¸ü¸ÄÎª»Øµµ·ÃÎÊÀàÐÍ
-Answer: d
+Answer: b
 Q24.Ä³ÆóÒµÔ­À´Ê¹ÓÃµÄ°¢ÀïÔÆ·þÎñ¶¼ÊÇÎ»ÓÚ¾­µäÍøÂçÖÐµÄ£¬ÓÉÓÚ×¨ÓÐÍøÂçVPCÏà±ÈÓÚ¾­µäÍøÂç¸ü°²È«£¬ÐÔÊ©¸ü¸ß£¬ÓÃ»§¾ö¶¨½«ËùÓÐ¾­µäÍøÂçÖÐµÄ·þÎñÇ¨ÒÆµ½×¨ÓÐÍøÂçVPCÖÐ£¬ÎªÁËÊµÏÖÒµÎñÄÜ¹»Æ½»¬µÄÇ¨ÒÆ£¬ÒÔÏÂÄÇÐ©½¨ÒéÊÇ²»¿ÉÐÐµÄ?
 Ñ¡ÔñÒ»Ïî£º
 a.Èç¹ûÓ¦ÓÃ²¿ÊðÔÚÁËECS¸ßÀýÉÏ£¬ÇÒECSÊµÀýÖØÆô¶ÔÏµÍ³Ã»ÓÐÓ°Ïì£¬¿ÉÒÔÑ¡Ôñµ¥ECSÇ¨ÒÆ·½°¸£¬¸Ã·½°¸µÄÇ¨ÒÆ¹¤×÷¿ÉÍ¨¹ýÌá½»¹¤µ¥µÄ·½Ê½ÓÉ°¢ÀïÔÆÀ´Íê³ÉD
@@ -333,9 +333,9 @@ Answer: bd
 Q47.ÓÃ»§ÔÚ¹ºÂòÊ¹ÓÃRDS for MySQLÊµÀýµÄÊ±ºò£¬»áÓöµ½¿Õ¼äÊ¹ÓÃ¸æ¾¯ÉõÖÁ³¬¹ýÊµÀýÏÞ¶îÅûËø¶¨µÄÇé¿ö¡£ÔÚRDS¿ØÖÆÌ¨µÄÊµÀý»ù±¾ÐÅÏ¢ÖÐ£¬¼´»á³öÏÖÈçÏÂÐÅÏ¢£ºÓ²ÅÌÀûÓÃÂÊ¹ý¸ß£¬µ±Ç°ÖµÎª1Xx%ÕâÑùµÄÇé¿ö£¬Ôì³ÉRDSÊµÀý´ÅÅÌ¿Õ¼äÊ¹ÓÃÂÊ¹ý¸ßµÄÔ­ÒòºÍ½â¾ö·½°¸ÊÇÊ²Ã´£¿£¨ÕýÈ·´ðÀë¸öÊý£º2¸ö£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
 a.BinlogÎÄ¼þÕ¼ÓÃ¹ý¸ß£¬Õâ¸öÎÊÌâ¿ÉÒÔÍ¨¹ýÌáÉýÊµÀý¹æ¸ñÀ´½â¾ö
 b.ÀúÊ·Êý¾ÝÕ¼ÓÃ¿Õ¼ä¹ý¸ß£¬ÓÃ»§¿ÉÒÔÍ¨¹ýDelete from tableÃüÁîÀ´ÊÍ·Å
-c.ÁÙÊ±ÎÄ¼þÕ¼ÓÃ¹ý¸ß£¬Õâ¸öÎÊÌâÍ¨¹ýkilÃüÁî»òDMSÉÏ²Ù×÷ÖÕÖ¹»á»°À´ÊÍ·Å¿Õ¼ä
+c.ÁÙÊ±ÎÄ¼þÕ¼ÓÃ¹ý¸ß£¬Õâ¸öÎÊÌâÍ¨¹ýkillÃüÁî»òDMSÉÏ²Ù×÷ÖÕÖ¹»á»°À´ÊÍ·Å¿Õ¼ä
 d.ÏµÍ³ÎÄ¼þibdata1Õ¼ÓÃ¹ý¸ßµ¼Ð§´ÅÅÌ¿Õ¼ä²»×ã£¬Í¨¹ýÖÆ³ýibdata1ÎÄ¼þÀ´Ôö´óÏµÍ³¿Õ¼ä
-Answer: ac
+Answer: bc
 Q48.¹«Ë¾ÐèÒª½«Ãô¸ÐÊý¾Ý½øÐÐ¼ÓÃÜ´æ´¢£¬×÷Îª¼Ü¹¹Ê¦£¬½«ÕâÐ©Êý¾Ý´æ´¢ÔÚ¿é´æ´¢ÖÐ²¢¹ÒÔØµ½ECSÉÏÃæ£¬ÏÂÃæÄÄÐ©Ñ¡Ïî¿ÉÒÔ²Ø×ãÄã¶ÔÓÚÊý¾Ý¼ÓÃÜµÄÒªÇó?£¨ÕýÈ·´ðÀë¸öÊý£º2¸ö£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
 a.Ê¹ÓÃ°¢ÀïÔÆSLBÉÏµÄHTTPS¹¦ÄÜ£¬¿É×Ô¶¯½«Êý¾Ý¼ÓÃÜ£¬ECSÉÏµÄ³ÌÐò²»ÐèÒªÈÎºÎ¸Ä¶¯
 b.ÎªËùÓÐ·ÃÎÊECSµÄ·þÎñÌí¼ÓÖ¤Êé
@@ -384,11 +384,12 @@ a.ÎªÏµÍ³Ôö¼ÓÔÆÊý¾Ý¿âRedis×÷Îª»º´æ
 b.Ê¹ÓÃDRDSÀ´Ìæ´úRDS£¬Í¬Ê±Ôö¼ÓOSS·þÎñ·ÅÖÃ¾²Ì¬ÎÄ¼þ
 c.Ôö¼ÓRDSÊµÀýµÄ´óÐ¡¸ÄÉÆIOPS
 d.ÎªRDSÌí¼ÓÖ»¶ÁÊµÀý
-Answer: ad
+Answer: bd
 Q55.Ò»¼Ò¹«Ë¾ÕýÔÚOSSÉÏ´æ´¢Êý¾Ý¡£¸Ã¹«Ë¾µÄ°²È«Õþ²ßÒªÇó¾²Ì¬Êý¾ÝÒÔ¼ÓÃÜµÄÐÎÊ½´æ´¢¡£ÒÔÏÂÄÄ¸ö·½·¨¿ÉÒÔÊµÏÖÕâ¸ö£¿£¨Ñ¡Ôñ3¸ö´ð°¸£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
 a.Í¨¹ýKMSÍÐ¹Ü²¢´´½¨ÃÜÔ¿¶ÔÊý¾Ý½øÐÐ¼ÓÃÜ
 b.ÓÉOSSÍêÈ«ÍÐ¹ÜµÄ·þÎñ¶Ë¶ÔÊý¾Ý½øÐÐ¼ÓÃÜ
-c.Ê¹ÓÃOSS bucket´æ´¢Í°²ßÂÔÀ´ÏÞÖÆ¶Ô¾²Ì¬Êý¾ÝµÄ·ÃÎÊ»Ød.ÔÚµ¼ÈëOSSÖ®Ç°£¬¿Í»§Ê¹ÓÃ×ÔÉíÃÜÔ¿ÔÚ¿Í»§¶Ë¼ÓÃÜÊý¾Ý
+c.Ê¹ÓÃOSS bucket´æ´¢Í°²ßÂÔÀ´ÏÞÖÆ¶Ô¾²Ì¬Êý¾ÝµÄ·ÃÎÊ»Ø
+d.ÔÚµ¼ÈëOSSÖ®Ç°£¬¿Í»§Ê¹ÓÃ×ÔÉíÃÜÔ¿ÔÚ¿Í»§¶Ë¼ÓÃÜÊý¾Ý
 e.Ê¹ÓÃHTTPS½Ó¿ÚÉÏ´«Êý¾Ý£¬ÔÚ´«Êäµ½OSSÊ±¼ÓÃÜÊý¾Ý
 Answer: abd
 Q56.Ð¡ÌÆ¾ÍÖ°Ò»¼ÒÓÎÏ·¹«Ë¾£¬¹úÄÚÓÐºÜ¶àÓÃ»§£¬ÇÒ×î½ü¸Õ¸Õ³öº££¬½üÆÚÑÐ¶ÁÁË°¢ÀïÔÆµÄÖÇÄÜ½âÎö£¬·¢ÏÖÄÜ¹»ºÜºÃµÄ½â¾ö¹«Ë¾Ä¿Ç°¶àÔËÓªÉÌ¿Í»§ºÍÈ«ÇòÓÃ»§·ÃÎÊÖÊÁ¿²»¸ßµÄÎÊÌâ£¬¾­¹ýÒ»·¬µÄÉèÖÃ£¬·¢ÏÖÐ§¹û²¢Ã»ÓÐËûÏëµÄÄÇÃ´ºÃ£¬ÇëÎÊÒÔÏÂÄÄÐ©Çé¿öÓÐ¿ÉÄÜÊÇÎÊÌâ¸ùÔ´£¿£¨Ñ¡Ôñ3¸ö´ð°¸£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
@@ -1010,7 +1011,7 @@ A.Í¨¹ýDNSµÄÖÇÄÜ½âÎö¹¦ÄÜ£¬×Ô¶¯Ê¶±ðHost×Ö¶Î£¬ÅÐ¶Ï¶ÔÓ¦ÓòÃû£¬Ê¶±ð£¬·µ»Ø²»Í¬µÄÒ³Ãæ
 B.ÔÚApacheÖÐÐÂÔöVirtualHost£¬½«²»Í¬³ÇÃûÍøÕ¾ÄÚÈÝ´æÈë²»Í¬µÄVirtualHostÄ¿Â¼ÖÐ£¬Í¨¹ýHost×Ö¶ÎÊ¶±ð¶ÔÓ¦µÄÓòÃûÄ¿Â¼
 C.Í¨¹ýDNSµÄÖÇÄÜ½âÎö¹¦ÄÜ£¬×Ô¶¯Ê¶±ðHost×Ö¶Î£¬Ê¶±ð¶ÔÓ¦ÓòÃû£¬È»ºó×ª·¢µ½Í¬Ò»IPµÄ²»Í¬¶Ë¿Ú
 D.ÔÚnginxÖÐ¸ù¾ÝHost×Ö¶Î£¬Ê¶±ð¶ÔÓ¦ÓòÃû£¬È»ºó×ª·¢µ½Í¬Ò»IPµÄ²»Í¬¶Ë¿Ú
-Answer: ABD
+Answer: BD
 Q165.(¶àÑ¡)ÔÆ¿Í·þÊÇÒ»¸ö³¡¾°»°µÄ¿Í·þ½â¾ö·½°¸£¬ÒÔÏÂÄÄÐ©ÄÚÈÝÊÇÐèÒªÊÕ·ÑµÄ
 A.ºô½ÐÖÐÐÄ×÷Ï¢ÊýÁ¿
 B.ÔÚÏß·þ×øÏ¯ÊýÁ¿
@@ -1306,7 +1307,7 @@ b.ÎªÁËÓ¦ÓÃ¼Ü¹¹µÄºÏÀíÉè¼Æ¿Õ¼ä£¬±ØÐëÁË½âOSS´æ´¢Á¿ÊÇ·ñ×ã¹»
 c.±ØÐëÖªµÀ¹«Ë¾½ñÌìÓÐ¶àÉÙ¿Í»§£¬ÒòÎªÕâ¶ÔÓÚÀí½âÁ½ÄêÄÚËûÃÇµÄ¿Í»§»ùÊýÊÇÖÁ¹ØÖØÒªµÄ
 d.±ØÐëÁË½âÔÚ¸ß·åÇé¿öÏÂÃ¿ÃëµÄOSSÇëÇó×ÜÊý
 e.±ØÐëÁË½â¿Í»§·ÃÎÊÇëÇóµÄÇøÓò£¬ÒÔ±ãºÏÀíÑ¡ÔñOSSËùÔÚµÄµØÓò¼°¿ÉÓÃÇø
-Answer: d
+Answer: c
 Q213.°¢ÀïÔÆAPÏà¶ÔÓÚ´«Í³µÄÎÞÏßÍøÂçÉèÖÃ¸ü¼Ó¼òµ¥£¬ÇÒÄÜ¹»ÊµÏÖ¸ü¸ßµÄ°²È«ÐÔ£¬ÇëÎÊÈçÏÂ¹ØÓÚ°¢ÀïÔÆAP·½°¸ÖÐ¿ØÖÆ²ãµÄ°²È«ÌØÐÔËµ·¨ÕýÈ·µÄÊÇ?
 Ñ¡ÔñÒ»Ïî£º
 a.ÎÞ±¾µØAC£¬Í¨¹ýÔÆ¶ËµÄÈí¼þ¶¨ÒåACÌá¹©¸ß¿ÉÓÃ·þÎñ£¬ÒÀÀµ¹«ÓÐÔÆÌìÈ»µÄ¸ß¿É¿¿ÌØÐÔ
@@ -1321,7 +1322,7 @@ b.²ÉÓÃ»ùÓÚ¸ºÔØ¾ùºâ¼¯ÈºµÄ·½·¨½øÐÐÏµÍ³Éý¼¶£¬Êý¾Ý¿âÓÉRDS»»ÎªDRDS£¬ÐÔÄÜ¼´¿ÉµÃµ½ÌáÉý
 c.²ÉÓÃ»ùÓÚ¸ßÐÔÄÜÖ÷»úÏµÍ³µÄ·½·¨½øÐÐÏµÍ³Éý¼¶£¬½«Êý¾Ý¿âÓëÓ¦ÓÃ·ÖÀë£¬ÐÔÄÜ¼´¿ÉµÃµ½ÌáÉý
 d.²ÉÓÃ»ùÓÚ¸ºÔØ¾ùºâ¼¯ÈºµÄ·½·¨½øÐÐÏµÍ³Éý¼¶£¬Ô­ÓÐÏµÍ³ÐèÒªÐÞ¸Ä³ÉÎÞ×´Ì¬µÄÓ¦ÓÃ£¬Êý¾Ý¿âÓëÓ¦ÓÃ·ÖÀë
 Answer: d
-Q215.Ä³µçÉÌÍøÕ¾²¿ÊðÔÚÒ»Ì¨ECSÉÏ£¬½üÆÚÓÉÓÚÒµÎñÔö³¤Êý¾Ý¿âCPUÕ¼ÓÃÂÊ½Ï¸ß£¬¾­³£µ¼ÖÂ·þÎñÆ÷CPUÊ¹ÓÃÂÊ´ï100%£¬¾­¹ýÅÅ²é·¢ÏÖÊý¾Ý¿â´ó¶àÎª²éÑ¯²Ù×÷£¬Îª½â¾ö´ËÖÖ³¡¾°ÒÔÏÂÄÄÐ©·½°¸±²²»ºÏÀíµÄ?
+Q215.Ä³µçÉÌÍøÕ¾²¿ÊðÔÚÒ»Ì¨ECSÉÏ£¬½üÆÚÓÉÓÚÒµÎñÔö³¤Êý¾Ý¿âCPUÕ¼ÓÃÂÊ½Ï¸ß£¬¾­³£µ¼ÖÂ·þÎñÆ÷CPUÊ¹ÓÃÂÊ´ï100%£¬¾­¹ýÅÅ²é·¢ÏÖÊý¾Ý¿â´ó¶àÎª²éÑ¯²Ù×÷£¬Îª½â¾ö´ËÖÖ³¡¾°ÒÔÏÂÄÄÐ©·½°¸²»ºÏÀíµÄ?
 Ñ¡ÔñÒ»Ïî£º
 a.½«Êý¾Ý¿âÇ¨ÒÆÖÁRDS£¬²¢Ê¹ÓÃredis×÷ÎªÊý¾Ý¿â»º´æ£¬ÒÔ½µµÍÊý¾Ý¿â¶ÁÇëÇóÑ¹Á¦
 b.½«Êý¾Ý¿âÇ¨ÒÆÖÁRDS£¬²¢Ê¹ÓÃmemcache×÷ÎªÊý¾Ý¿â»º´æ£¬ÒÔ½µµÍÊý¾Ý¿â¶ÁÇëÇóÑ¹Á¦¡£
@@ -1372,7 +1373,7 @@ a.ÔÆÕËºÅAÔÚRAMÖÐ´´½¨Ò»¸ö½ÇÉ«£¬¸ø½ÇÉ«ÊÚÓèºÏÊÊµÄÈ¨ÏÞ£¬²¢ÔÊÐí appServerÊ¹ÓÃ¸Ã½ÇÉ«
 b.appServerÔÚÊ¹ÓÃ½ÇÉ«Ê±Í¨¹ýÃÜÔ¿ÊÚÈ¨²Ù×÷È¨ÏÞ£¬ÒÔ¸ü¾«Ï¸µØ¿ØÖÆÃ¿¸öappµÄÈ¨ÏÞ
 c.²»ÄÜ½«AK½»¸øÒÆ¶¯app£¬Ê¹ÓÃ´ø¹ýÆÚÊ±¼äµÄ·ÃÎÊÁîÅÆ
 d.µ±appÐèÒªÖ±Á¬OSSÉÏ´«/ÏÂÔØÊý¾ÝÊ±£¬appServer µ÷ÓÃSTSAssumeRole£¬»ñÈ¡½ÇÉ«µÄÒ»¸öÁÙÊ±°²È«ÁîÅÆ²¢´«ËÍ¸ø app£¬appÊ¹ÓÃÁÙÊ±°²È«ÁîÅÆÖ±½Ó·ÃÎÊ OSS API
-Answer: b
+Answer: c
 Q222.ÕÅÏÈÉúÊÇ×îÔçÒ»ÅúÊ¹ÓÃDRDS²úÆ·µÄ¿Í»§£¬µ±³õDRDSºÍRDS¾ùÔÚ¾­µäÍøÂç£¬ÏÖÔÚÎªÁËÀûÓÃVPCµÄÁé»îºÍ¸ß¸ôÀëÌØÐÔ£¬ÏëÊµÏÖÏòVPCµÄÇ¨ÒÆ£¬ÇëÎÊ¸ÃÈçºÎ²Ù×÷²Å¿ÉË³ÀûÊµÏÖ?
 Ñ¡ÔñÒ»Ïî£º
 a.DRDSÍê³ÉVPCµÄÇÐ»»£¬½Ó×Å×ÔÖúÐÞ¸´ÓëRDSµÄ·Ö¿âÁ¬½Ó³Ø¼´¿É
@@ -1540,7 +1541,7 @@ b.ºó¶Ë·þÎñÆ÷ECS¼à¿Ø¼ì²é·¢ÉúÁËÒì³£
 c.ºó¶Ë·þÎñÆ÷ECS¸ö±ð¿ªÆôÁËTCP keepalive±£³Ö³¤Á¬½Ó
 d.ºó¶ËµÄECSÈ¨ÖØÉèÖÃ²»Ò»Ñù
 e.Îªºó¶ËECS·ÖÅäµÄ´ø¿í²»Ò»Ñù
-Answer: abd
+Answer: abc
 Q247.Ä³µçÉÌÏµÍ³²¿ÊðÔÚ°¢ÀïÔÆÉÏ£¬ÆäOLTPÏµÍ³Ê¹ÓÃµÄÊý¾Ý¿âÊÇRDSMySQL5.6¡£Ëæ×ÅÒµÎñ·¢Õ¹£¬ÆäÒµÎñÊý¾Ý¿âµÄ¶ÁÐ´ÐÔÄÜ¶¼³öÏÖÁËÆ¿¾±£¬Í¨¹ýÌá¸ßµ¥Ì¨RDSµÄÅäÖÃÒÑ¾­ÎÞ·¨Âú×ãÐèÇó£¬ÒÔÏÂ¸Ä½ø·½°¸²»ºÏÀíµÄÊÇ£¿
 £¨ÕýÈ·´ð°¸¸öÊý£º2¸ö£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
 a.´´½¨RDSÖ»¶ÁÊµÀý£¬²¢Ê¹ÓÃRDS¶ÁÐ´·ÖÀë·þÎñ£¬ÊµÏÖ×Ô¶¯¶ÁÐ´·ÖÀë£¬¿ÉÒÔÌá¸ßÊý¾Ý¿âµÄ¶ÁÐÔÄÜ
@@ -2601,3 +2602,10 @@ B.Íê³ÉRDSÊµÀýÍøÂçµ½VPCµÄÇÐ»»£¬ ½Ó×ÅµÇÂ½DRDS¿ØÖÆÌ¨£¬ ÐÞ¸´·Ö¿âÁ¬½Ó³Ø£¬ È»ºóÇÐ»»DDS
 C.DRDSÍê³ÉVPCµÄÇÐ»»£¬ ½Ó×Å×ÔÖúÐÞ¸´ÓëRDSµÄ·Ö¿âÁ¬½Ó³Ø¼´¿É
 D.Íê³ÉRDSÊµÀýÍøÂçµ½VPCµÄÇÐ»»£¬ ½Ó×ÅµÇÂ½DRDS¿ØÖÆÌ¨Íê³ÉÇÐ»»D DSµ½VPC
 Answer: B
+Q436.°¢ÀïÔÆº¯Êý¼ÆËã(Function Compute) ÊÇÒ»¸öÈ«ÍÐ¹Ü¼ÆËã·þÎñ£¬ ÎÞÐè¹ÜÀíºÍÎ¬»¤·þÆ÷ÐµµÈ»ù´¡ÉèÊ©£¬¶øÊÇ×¨×¢ÓÚÒµÎñÂß¼­µÄ¿ª·¢£¬Êý¼ÆËã»á×¼±¸ºÃ¼ÆËã×ÊÔ´£¬ÒÔµ¯ÐÔµÄ¡¢¿ÉµÄ·½Ê½ÔËÐÐ¡Ì¡¢µÄ´úÂë£¬°¢ÀïÔÆº¯Êý¼ÆËãµÄºËÐÄ¸ÅÄî£¬ÏÂÃæ³ÂÊö´íÎóµÄÊÇÄÄ¸ö?
+A.·þÎñ(Service)
+B.º¯Êý(Function)
+C.µ¯ÐÔ£¨Elastic£©
+D.´¥·¢Æ÷(tragger)
+Answer: D
+
