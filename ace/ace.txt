@@ -135,7 +135,7 @@ a.¿Í»§´§>DDoS¸ß·ÀIP>CDN>WebÓ¦ÓÃ·À»ðÇ½>SLB>Ô´Õ¾
 b.¿Í»§¶Ë>CDN>WebÓ¦ÓÃ·À»ðÇ½>DDoS¸ß·ÀIP>SLB>Ô´Õ¾
 c.¿Í»§¶Ë>CDN>DDoS¸ß·ÀIP>WebÓ¦ÓÃ·À»ðÇ½>SLB>Ô´Õ¾
 d.¿Í»§¾«>DDoS¸ß·ÀIP>WebÓ¦ÓÃ·À»ðÇ½>CDN>SLB>Ô´Õ¾
-Answer: a
+Answer: c
 Q20.Ä³ÐÐÒµ¿Í»§µÄÉú²úÏµÍ³²¿ÊðÔÚ°¢ÀïÔÆµÄ¶à¸öregion£¬¸ÃÏµÍ³ÊµÊ±²úÉú´óÁ¿Êý¾Ý£¬Êý¾ÝÄ¿Ç°´æ´¢ÔÚ±¸¸öregionµÄMySQLÊý¾Ý¿âÖÐ¡£Ëæ×ÅÒµÎñµÄÀ©´ó£¬DBA·¢ÏÖÊý¾ÝÁ¿¹ý´ó£¬Ã¿´ÎSQL²éÑ¯Ö´ÐÐËÙ±ä¹ýÂý£¬ÇÒÃ¿´Î½«Êý¾Ý´Ó¸÷µØµ¼Èë×Ü²¿regionµÄÊý¾Ý¿âÖÐÏûºÄ´óÁ¿ÈËÁ¦ºÍÎïÁ¦¡£×÷Îª¼Ü¹¹Ê¦£¬Í¨¹ý°¢ÀïÔÆÆ½Ì¨ÎÒÃÇ¸ÃÈçºÎÎª¿Í»§Ìá¹©ÓÅ»¯·½°¸£¿
 Ñ¡ÔñÒ»Ïî£º
 a.Ê¹ÓÃHybridDBÀ´½â¾ö²éÑ¯ËÙ¶ÈÂýµÄÎÊÌâ£¬Í¬Ê±Í¨¹ýDTS¶©°Â·½Ê½Í¬²½±¸µØÊý¾Ýµ½×Ü²¿ÖÐÐÄÊý¾Ý¿â
@@ -279,7 +279,7 @@ a.Á½µØÈýÖÐÐÄ
 b.ÏÞÁ÷½µ¼¶
 c.ÈÝÁ¿¹æ»®
 d.µ¯ÐÔÉìËõ
-Answer: d
+Answer: b
 Q39.ÀûÓÃÔÆ½âÎö¹¦ÄÜÄÜ¹»´ó´óµÄÔöÇ¿ÒµÎñÔËÐÐµÄÁ¬ÐøÐÔ£¬ÒÔÏÂÄÄÖÖ³¡¾°ÃèÊö²»ÕýÈ·Ñ¡ÔñÒ»Ïî£º
 a.¶ÔÓÚÊ¹ÓÃÁËWeb·À»ðÇ½µÄÓÃ»§£¬¿ÉÉèÖÃÔÆ½âÎöÔÚWeb·À»ðÇ½Òì³£Ê±£¬¿ÉÒÔÇÐ»»ÖÁÔ´Õ¾IPµØÖ·»òÔ´Õ¾ÓòÃû
 b.¶ÔCDN·þÎñÉÌÌá¹©µÄCNAME³ÇÃû½øÐÐÈ«¹úHTTP/HTTPS¼à¿Ø£¬Ò»µ©³öÏÖ¹ÊÕÏ¿ÉÒÔÁ¢¼´ÇÐ»»ÖÁ±¸ÓÃCDN·þÎñÉÌ
@@ -296,9 +296,10 @@ Answer: d
 Q41.È¥ÖÐÐÄ»¯¡±Ïà±È¡°ÖÐÐÄ»¯¡±·þÎñ¿ò¼ÜµÄÓÅµãÓÐÄÄÐ©£¿£¨Ñ¡Ôñ3¸ö´ð°¸£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
 a.¸ü¼òµ¥½øÐÐ·þÎñ¹Ü¿Ø»Ø
 b.·þÎñµ÷ÓÃÐ§ÂÊ¸ü¸ß»Ø
-c.¸üºÃµÄÖ§³ÖÒì¹¹Æ½Ì¨µÄ¼¯³É»Ø
-d.±ÜÃâ·¢Éú¡°Ñ©±À¡±Ð§Ó¦ËÄe.¸üºÃµÄÏßÐÔÀ©Õ¹ÄÜÁ¦
-Answer: cde
+c.¸üºÃµÄÖ§³ÖÒì¹¹Æ½Ì¨µÄ¼¯³É
+d.±ÜÃâ·¢Éú¡°Ñ©±À¡±Ð§Ó¦
+e.¸üºÃµÄÏßÐÔÀ©Õ¹ÄÜÁ¦
+Answer: bde
 Q42.ÒÔÏÂÄÄÐ©ÊÇ°¢ÀïÔÆÆóÒµ¼¶·Ö²¼Ê½Ó¦ÓÃ·þÎñÓÅÊÆ£¿£¨Ñ¡Ôñ4¸ö´ð°¸£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
 a.¸ßÐÔÄÜ·Ö²¼Ê½¼ÆËã¼¯Èº¿ò¼Ü»Ø
 b.ÏµÍ³ÏßÐÔÎÞÏÞÀ©³¿£¬º£Á¿²¢·¢»Ø
@@ -419,12 +420,12 @@ d.×Ô¶¯»¯
 e.Òì²½»¯
 f.¿ÉÊÓ»¯
 Answer: abcde
-Q60.Ä³¹«Ë¾µÄÏµÍ³²¿ÊðÔÚ°¢ÀïÔÆµÄº¼ÖÝ»ú·¿£¬ÓÉÓÚÒµÎñÍØ³¿£¬Ôö¼ÓÁË´óÁ¿µÄÃÀ¹úÓÃ»§£¬ÏÖÐèÒªÊµÏÖÖÐÃÀÒìµØË«»î¼Ü¹¹£¬¿ÉÒÔÍ¨¹ýÒÔÏÂÄÄÁ½¸ö²½ÖèÊµÏÖ£¿£¨ÕýÈ·´ð°¸µÄÊýÄ¿£º2¸ö£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
+Q60.Ä³¹«Ë¾µÄÏµÍ³²¿ÊðÔÚ°¢ÀïÔÆµÄº¼ÖÝ»ú·¿£¬ÓÉÓÚÒµÎñÍØÕ¹£¬Ôö¼ÓÁË´óÁ¿µÄÃÀ¹úÓÃ»§£¬ÏÖÐèÒªÊµÏÖÖÐÃÀÒìµØË«»î¼Ü¹¹£¬¿ÉÒÔÍ¨¹ýÒÔÏÂÄÄÁ½¸ö²½ÖèÊµÏÖ£¿£¨ÕýÈ·´ð°¸µÄÊýÄ¿£º2¸ö£©Ñ¡ÔñÒ»Ïî»ò¶àÏî£º
 a.Ê¹ÓÃ°¢ÀïÔÆÌá¹©µÄ×Ô¶¨Òå¾µÏñ¡¢¾µÏñ¿çÇøÓò¸´ÖÆµÈ¹¦ÄÜ£¬ÔÚÃÀ¹ú²¿ÊðÒ»Ì×Óëº¼ÖÝÏàÍ¬µÄÓ¦ÓÃ
 b.Ê¹ÓÃ°¢ÀïÔÆSLBµÄÈ«Çò¸ºÔØ¾ùºâ·þÎñ£¬ÊµÏÖ·ÃÎÊÁ÷Á¿ÔÚÁ½¸öµØÓòµÄ·Ö·¢
 c.Ê¹ÓÃDTSÊý¾ÝÇ¨ÒÆ·þÎñ£¬ÊµÏÖÊý¾Ý¿âµÄÇ¨ÒÆ¡£Ê¹ÓÃOSSµÄ¿çÇøÓò¸´ÖÆ¹¦ÄÜ£¬Ç¨ÒÆ·Ç½á¹¹»¯Êý¾Ý
 d.Êý¾Ý²ãÍ¨¹ý°¢ÀïÔÆÊý¾Ý´«Êä·þÎñDTSµÄË«ÏòÍ¬²½¹¦ÄÜ½øÐÐÈ«¾ÖÍ¬²½£¬DTSµÄË«ÏòÍ¬²½¹¦ÄÜ¿ÉÒÔ±£Ö¤¶ÔÖÐ¡¢ÃÀÁ½µØÊý¾Ý¿âµÄÐ´²Ù×÷²»»áÓÐ³åÍ»
-Answer: bd
+Answer: ad
 Q61.Ä³ÔÆÉÏÓÃ»§¾­³£ÊÜµ½10GÒÔÉÏDDoS³å»÷£¬ÎªÁË»ñµÃ¸üºÃµÄÒµÎñÁ¬ÐøÐÔ£¬ÓÃ»§Í¬Ê±¿ªÍ¨ÁËWebÓ¦ÓÃ·À»ðÇ½·þÎñ¡¢CDN¡¢¸ß·ÀIPµÈÈýÖÖ°²È«²úÆ·£¬Èç¹ûÄãÊÇ°¢ÀïÔÆ¼Ü¹¹Ê¦£¬ÎªÁËÈ·±£ÈýÖÖ·þÎñ×éºÏÄÜ¹»´ïµ½×î¼Ñ·ÀÐ§¹û£¬½¨ÒéÓÃ»§²¿ÊðµÄ¼Ü¹¹ÊÇ?
 Ñ¡ÔñÒ»Ïî£º
 a.¿Í»§¶Ë>DDoS¸ß·ÀIP>WebÓ¦ÓÃ·À»ðÇ½>CDN>SLB>Ô´Õ¾
@@ -1269,7 +1270,7 @@ a.Ê¹ÓÃECS+ÔÆÊý¾Ý¿âRedis°æ+RDSµÄ¼Ü¹¹£ºÓ¦ÓÃ²¿ÊðÔÚ¶àÌ¨ECSÉÏ£¬¹ØÏµÐÍÊý¾Ý´æ´¢ÔÚRDSÊý¾
 b.Ê¹ÓÃECS+RDS+Ö»¶ÁÊµÀýµÄ¼Ü¹¹£ºÓ¦ÓÃ²¿ÊðÔÚ¶àÌ¨ECSÉÏ£¬¹ØÏµÐÍÊý¾Ý´æ´¢ÔÚRDSÊý¾Ý¿âÖÐ£¬²¢Í¨¹ýRDSÖ»¶ÁÊµÀýÊµÏÖ¶ÁÐ´·ÖÀë
 c.Ê¹ÓÃ¶àÌ¨ECS£¬½«Ó¦ÓÃºÍÊý¾Ý¿â·Ö±ð²¿ÊðÔÚECSÖÐ£¬Í¨¹ýÌáÉýECSµÄÅäÖÃÀ´ÌáÉýÏµÍ³µÄÐÔÄÜ£¬Ç°¶ËÔö¼ÓCDN·þÎñ
 d.Ê¹ÓÃECS+TableStoreµÄ¼Ü¹¹£ºÓ¦ÓÃ²¿ÊðÔÚ¶àÌ¨ECSÉÏ£¬Êý¾Ý±£´æÔÚ±í¸ñ´æ´¢TableStoreÖÐ£¬ÀûÓÃNoSQLÊý¾Ý¿âµÄ¿ìËÙ¶ÁÐ´ÓÅÊÆ
-Answer: b
+Answer: a
 Q208.Ð¡¶­¿ª·¢ÁËÓÊÕþ±àÂëÊ¶±ð³ÌÐò£¬ÄÜ¹»¸ù¾Ý¹úÄÚÓÊÕþ±àÂë¿ìËÙ²éÑ¯µ½¶ÔÓ¦µÄÊ¡ÊÐ£¬ÎªÁËÄÜ¹»¿ìËÙÍê³É¿ª·¢£¬ËûÖ±½Ó¹ºÂòÁË²éÑ¯ÓÊ±àÐÅÏ¢µÄAP1£¬×÷ÎªÒ»¸ö¶ÀÁ¢¿ª·¢Õß£¬×Ê½ð±Ï¾¹ÓÐÏÞ£¬ËûÒ»·½ÃæÏ£Íû·þÎñ¸ü¶àµÄÓÃ»§£¬ÁíÒ»·½Ãæ²»Ï£ÍûÆäAPI±»ÎÞÐ§Ê¹ÓÃ»òÀË·Ñ£¬ÇëÎÊËû¸Ã²ÉÓÃÊ²Ã´À´ÊµÏÖÒªÇóÄØ?
 Ñ¡ÔñÒ»Ïî£º
 a.Ê¹ÓÃÁ÷Á¿¿ØÖÆ£¬Õë¶ÔAPI¡¢ÓÃ»§ºÍÓ¦ÓÃÈý¸ö¶ÔÏóÉèÖÃ²»Í¬²ßÂÔ£¬Õë¶ÔÄ³Ð©APPÉèÖÃÀýÍâÁ÷¿Ø£¬±£Ö¤Õý³£APµ÷ÓÃ£¬¼õÉÙ·Ç±ØÒªµ÷ÓÃ
@@ -2608,4 +2609,23 @@ B.º¯Êý(Function)
 C.µ¯ÐÔ£¨Elastic£©
 D.´¥·¢Æ÷(tragger)
 Answer: D
-
+Q437.£¨¶àÑ¡£©Ä³ÆóÒµ×ÔÓÐ20Ì¨·þÎñÆ÷£¬ÆóÒµÄÚ²¿Ó¦ÓÃ¾ù²ÉÓÃ´«Í³¼Ü¹¹£¬·þÎñÆ÷×ÊÔ´Ê¹ÓÃÂÊµÍ£¬¾­³£ÒòÎª·þÎñÆ÷Ó²¼þ¹ÊÕÏÔì³ÉÒµÎñ³¤Ê±¼äÖÐ¶Ï£¬ÎªÌá¸ß·þÎñÆ÷ÀûÓÃÂÊ£¬ ·þÎñ¸ß¿ÉÓÃ¼¶¼°Êý¾Ý¿É¿¿ÐÔ£¬ ÔËÎ¬¾­Àí²ÉÓÃZ stackÔÆÆ½Ì¨½â¾ö·½°¸£¬ÒÔÏÂÄÄÖÖ´æ´¢¼Ü¹¹¿ÉÒÔÂú×ãÐèÇó?
+(ÕýÈ·´ð°¸¸öÊý£º3¸ö)
+A.²ÉÓÃ±¾µØ´æ´¢·½°¸
+B.²ÉÓÃ±¾µØ´æ´¢·½°¸
+C.²ÉÓÃNFS´æ´¢·½°¸
+D.²ÉÓÃ¹²Ïí¹ÒÔØ´æ´¢·½°¸
+E.²ÉÓÃ·Ö²¼Ê½¿é´æ´¢·½°¸+RADS
+Answer: ABC
+Q438.Ä³¹úÄÚ¹«Ë¾ÔÚ°¢ÀïÔÆVPCÍøÂçÖÐ£¬ Ê¹ÓÃSLB¡¢ECS¡¢RDSÔÚÔÆÉÏ´î½¨ÁË¹«Ë¾ÒµÎñÏµÍ³¹«Í¬Éú²úÏµÍ³µÄÊý¾Ý±£´æÔÚ¹ØÏµÐÍÊý¾Ý¿âRDS.¹«Ë¾Ã¿ÖÜÎ´Ðè½«±¾ÖÜÉú²úÏµÍ³Êý¾Ý´«ËÍµ½ÃÀ¹ú¹è¹È×Ü²¿µÄ×Ô½¨»ú·¿IDC£¬ ±ãÓÚ×Ü²¿ÔÚÏÂÖÜÒ»½øÐÐÊý¾Ý±¨±í·ÖÎö£¬ÒÑÖª¹«Ë¾Ò»ÖÜµÄÆ½¾ùÊý¾ÝÁ¿ÔÚ500MB×ó£¬Èç¹ûÄúÊÇ°¢ÀïÔÆ¼Ü¹¹Ê¦£¬¼æ¿¼µ½ÓÃ»§Êý¾Ý´«ÊäµÄ°²È«ÐÔºÍ¾­¼Ã¿ÉÐÐÐÔÒÔÏÂÄÄÖÖ·½°¸×îÎªºÏÊÊ?
+A.½«Ö®Ç°½¨Á¢ÔÚIDCÖÐµÄÊý¾Ý³µÇ¨ÒÆÖÁ°¢ÀïÔÆÃÀÎ÷ÇøÓòÄÚµÄRDSÖÐ£¬ Í¨¹ý¶¨Ê±ÈÎÎñÊµÏÖÊý¾ÝÍ¬²½
+B.¿ªÍ¨°¢ÀïÔÆ¸ßËÙÍ¨µÀ·þÎñ£¬½¨Á¢ÐéÄâ±ß½çÂ·ÓÉÆ÷×÷Îª×Ó¹«Ë¾VPCµ½×Ü²¿IDCµÄÊý¾Ý×ª·¢ÇÅÁº
+C.×Ó¹«Ë¾VPCºÍ×Ü²¿IDC·Ö±ð´´½¨VPNÍø¹ØºÍÓÃ»§Íø¹Ø£¬´´½¨VPNÁ¬½Ó¡£Í¨¹ý×Ó¹«Ë¾VPNµÄECS·þÎñÆ÷RDSÔöÁ¿Êý¾Ý´«Êäµ½×Ü²¿IDC»ú·¿·þÎñÆ÷
+D.ÔÚÃÀ¹ú»ú·¿IDCÖÐ´î½¨FTP·þÎñÆ÷£¬ ÔÚ×Ó¹«Ë¾VPCÍøÂç½«Ä³ECS·þÎñÆ÷°ó¶¨µ¯ÐÔIP£¬ Í¨¹ýFTPÉÏ´«¿Í»§¶Ë½«Êý¾ÝÉÏ´«µ½×Ü²¿FTP·þÎñÆ÷ÖÐ
+Answer: C
+Q439.£¨¶àÑ¡£©Ä³ÍøÕ¾´æÓÐ´óÁ¿µÄÍ¼Æ¬£¬¾­³£ÃæÁÙ´æ´¢¿Õ¼äºÍ·ÃÎÊÐÔÄÜµÄÎÊÌâ£¬ÏÖ¾ö¶¨½«Õû¸öÏµÍ³Ç¨ÒÆµ½°¢ÀïÔÆÉÏ£¬Í¨¹ýÊ¹ÓÃ°¢ÀïÔÆµÄµ¯ÐÔ·þÎñÀ´½â¾öÕâÐ©ÎÊÌâ£¬ ÎªÁË´æ´¢´óÁ¿µÄÍ¼Æ¬£¬ ¸ÃÍøÕ¾¾ö¶¨Ê¹ÓÃ¶ÔÏó´æ´¢·þÎñOSS£¬ µ«ÊÇÔÚÍøÕ¾Í¼Æ¬Ç¨ÒÆµÄ¹ý³ÌÖÐ£¬¸ÃÍøÕ¾Ï£Íû¶Ô×Ô¼ºµÄÓÃ»§·ÃÎÊÃ»ÓÐÈÎºÎÓ°Ïì£¬ÇëÎÊÒÔÏÂÄÄÐ©·½Ê½¿ÉÒÔÂú×ãÓÃ»§µÄÐèÇó(ÕýÈ·´ð°¸2¸ö)
+A.Ê¹ÓÃOSS bucketµÄ¿çÇøÓò¸´ÖÆ¹¦ÄÜ
+B.Ê¹ÓÃOSS bucketµÄ¾µÏñ¹¦ÄÜ
+C.Ê¹ÓÃOSS bucketµÄÖØ¶¨Ïò»ØÔ´¹¦ÄÜ
+D.Ê¹ÓÃOSS bucketµÄÍøÕ¾ÍÐ¹Ü¹¦ÄÜ
+Answer: BC
