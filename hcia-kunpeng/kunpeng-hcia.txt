@@ -1,0 +1,340 @@
+Q1.使用命令rpmbuild -bb XX. spec (XX表示文件名)制作RPM包时，RPM包生成在什么目录下?
+A.BUILD
+B.SOURCE
+C.RPMS
+D.SPEC
+Answer: C
+Q2.在BenchmarkSQL执行以下哪个脚本，可以对表中写入数据?
+A.runLoader.sh
+B.runBenchmark.sh
+C.runDatabaseBuild.sh
+D.runDatabaseDestroy.sh
+Answer: A
+Q3.BenchmarkSQL执行以下哪个脚本加载数据?
+A.runBenchmark.sh
+B.runDatabaseBuild.sh
+C.runDatabaseDestroy.sh
+D.runLoader.sh
+Answer: B
+Q4.代码扫描工具Dependency Advisor是部署在哪种架构的服务器或者弹性云服务器上?
+A.ARM
+B.鲲鹏
+C.Power
+D.x86
+Answer: D
+Q5.以下哪个不属于镜像管理特性?
+A.修改镜像
+B.删除镜像
+C.镜像导出
+D.查询镜像
+Answer: D
+Q5.Hi Bench是什么？
+A.大数据开发框架
+B.大数据可视化平台
+C.大数据基准测试套件
+D.大数据分析工具
+Answer: C
+Q7.关于容器的删除操作，以下哪项是正确的？
+A.可通过“docker rm <容器ID>"删除正在运行的容器
+B.可通过“docker rmi <容器ID>”删除已停止的容器
+C.可通过“docker rm <容器ID>"删除已停止的容器
+D.可通过“docker rmi <容器ID>”删除正在运行的容器
+Answer: C
+Q8.关于华为鲲鹏迁移工具分析报告提供的依赖库so文件的操作建议，以下哪项是不正确的?
+A.目前不存在鲲鹏平台无法识别的依赖库So文件
+B.鲲鹏平台不支持该类依赖库S0文件,需要用户自行处理
+C.如果依赖库so文件已经过鲲鹏平台验证，但无二进制安装包,则需要用户下载依赖库源码，然后上传至目标服务器进行编译安装
+D.如果依赖库S0文件已经过鲲鹏平台验证，且已有二进制安装包,则用户可以直按将工具提供的开源版本依赖库安装包下载到本地，然后上传至目标服务器进行安装使用
+Answer: A
+Q9.以下关于web界面访问华为鲲鹏代码迁移工具的方式,描述正确的是
+A.单用户单任务访问
+B.多用户多任务并发访间
+C.多用户同时访问
+D.单用户多任务访问
+Answer: A
+Q10.以下哪个选项不是iSula通用容器引辈的特点?
+A.升级不中断业务
+B.增强安全性和调测特性
+C.大幅提升容器性能
+D.快速灵活
+Answer: C
+Q11.在修改BenchmarkSQL连接PostereSQL的配置文件时，关于runMins和runTxnsPerTerminal这两个参数的设置，以下哪项是正确的?
+A.必须有一个设定为0
+B.必须相等
+C.均为0
+D.必须不相等，且均不为0
+Answer: A
+Q12.扫描工具Dependency Advi sor支持以下哪种使用模式?
+A.web
+B.make
+C.test
+D.name
+Answer: A
+Q13.如果要放开外部对弹性云服务器的8080端口访问，可以通过配置以下哪项功能实现?
+A.弹性公网IP带宽
+B.主机组
+C.安全组
+D.VPC子网
+Answer: C
+Q14.系统盘镜像类型不包含以下哪个
+A.机架服务器系统盘镜像
+B.普通云服务器系统盘镜像
+C.GPU加速云服务器系统盘镜像
+D.裸金属云服务器系统盘镜像
+Answer: A
+Q15.私有镜像通过以下哪个功能可以实现本地业务部署和公有云业务部署的统一化持久化?
+A.镜像导出
+B.镜像市场
+C.镜像复制
+D.镜像共享
+Answer: A
+Q16.以下哪个命令表示只生成rpm源代码的命令?
+A.rpmbuild -ba
+B.rpmbuild -bs
+C.rpmbuild -bc
+D.rpmbuild -bb
+Answer: B
+Q17.以下哪个不是使用rpm工具安装软件?
+A.自动安装依赖包
+B.全自动安装
+C.能够进行数据库的记载
+D.自定义安装路径
+Answer: A
+Q18.提供预装操作系统、应用环境和各类软件的优质第三方镜像是属于以下哪种镜像?
+A.共享镜像
+B.私有镜像
+C.市场镜像
+D.公共镜像
+Answer: C
+Q19.ssh协议默认端口号是什么?
+A.9600
+B.23
+C.22
+D.513
+Answer: C
+Q20.关于容器相关概念的描述，以下哪项是错误的?
+A.标签:可用于识别不同的变体或版本
+B.仓库：一个软件库， 存储了可下载并安装在系统中的软件包
+C.镜像:容器的运行实例
+D.容器:image的运行实例
+Answer: C
+Q21.使用gcc编译时，编译选项-march的作用是什么?
+A.指定指令集
+B.指定cpu型号
+C.指定流水线
+D.提升兼容性
+Answer: A
+Q22.下列哪个是华为鲲鹏生态兼容的非国产操作系统?
+A.BCLinux
+B.openEuler
+C.Ubuntu
+D.Kylin
+Answer: C
+Q23.谁是Linux之父?
+A.Richard Matthew Stallman
+B.Andrew Morton
+C.Bill Gates
+D.LimusTorvalds
+Answer: D
+Q24.(多选)可以从哪些方面对PostgreSQL进行性能调优?(多选)
+A.数据库参数
+B.硬件
+C.编译参数
+D.操作系统
+Answer: AC
+Q25.(多选)使用BenchmarkSQL前需要进行哪些操作?
+A.配置环境变量
+B.重启服务器
+C.安装JDK
+D.使环境变量生效
+Answer: ACD
+Q26.(多选)关于rpm包和SRPM包的描述，以下正确的是?
+A.SRPM包含源代码而RPM不包含
+B.rpm包可以直接安装，SRPM包不可以
+C.两者都可修改编译参数
+D.rpm包是已编译的程序，而SRPM不是
+Answer: ABD
+Q27.(多选)镜像服务的典型应用场景有哪些?
+A.快速部署应用
+B.批量复制弹性云服务器
+C.传统业务上云
+D.实时同步数据
+Answer: ABC
+Q28.(多选)镜像文件一般包括以下哪些内容?
+A.预装的软件
+B.数据盘
+C.操作系统
+D.系统盘
+Answer: AC
+Q29.(多选)以下哪些不是针对spec文件的操作命令?
+A.cmake
+B.makefile
+C.make
+D.make install
+Answer: AB
+Q30.(多选)rpm安装包有哪些优点?
+A.提供软件版本资讯，软件名称，软件用途等相关信息，便于了解软件
+B.内含编译程序，免编译
+C.使用数据库记录rpm文件的相关参数，便于升级、移除、查询与验证
+D.预先检查系统版本，可避免文件被错误安装
+Answer: ABCD
+Q31.(多选)创建C/C++程序性能分析任务时，以下关于分析类型，描述正确的是?
+A.Profile System,即采集整个服务器系统，无需关注系统中有哪些类型的应用在运行，采集时长需要配置参数控制，适用于多业务混合运行和有子进程的场景
+B.Attach to Process,即该采集对象针对正在运行的应用程序，通过关联到运行该应用程序的PID的方式，来实时跟踪和采集该应用程序的性能数据,采集时长需要配置参数控制，适用于某些应用需要长时间持续运行和采集的场景
+C.Launch Application,即采集启动的时候，同时启动Application,采集时长受Appl ication的执行时间来控制，适用于Application运行时间较短的场景
+D.C/C++程序仅支持Launch Application和Attach to Process两种分析类型
+Answer: ABC
+Q32.(多选)以下哪些属于Dockerfile的指令？
+A.FROM
+B.CMD
+C.EXPOSE
+D.RUN
+Answer: ABCD
+Q33.(多选)关于使用源码方式安装加速引擎软件，以下说法正确的有哪些?
+A.编译安装zlib加速库
+B.在下载好的源码目录下，使用make命令编译加速器
+C.编译安装加速器OpenSSL引擎
+D.编译安装Warpdrive驱动开发库
+E、安装openssl 1.1.1a或以上版本
+F、安装内核开发包kernel-devel
+Answer: ABCDEF
+Q34.(多选)同一段C/C++代码，在鲲鹏处理器与x86架构处理器上编译的可执行程序有哪些不同?
+A.指令
+B.指令使用的寄存器
+C.功能
+D.文件结构
+Answer: AB
+Q35.(多选)以下关于X6000 V5描述正确的是?
+A.机框支持2个3000w电源
+B.每个服务器节点支持3个半高半长标准PCIe插槽
+C.支持4个半宽双路服务器节点
+D.每个服务器节点支持16个DDR4 DIM插槽
+Answer: ACD
+Q36.(多选)以下哪些场景属于数据密集紧耦合场景?
+A.基因测序
+B.流体动力学
+C.天气预测
+D.环境预测
+Answer: CD
+Q37.(多选)在PostgreSQL迁移流程中，包含以下哪些步骤?
+A.迁移分析
+B.性能测试
+C.环境准备
+D.源码修改
+Answer: ABC
+Q38.(多选)通过以下哪些方式可以获取华为鲲鹏系列服务?
+A.购买华为云鲲鹏弹性云服务器
+B.购买基于x86架构的弹性云服务器
+C.购买RH服务器
+D.购买Tai shan服务器
+Answer: AD
+Q39.(多选)私有镜像包含以下哪些功能?
+A.镜像加密
+B.镜像共享
+C.镜像导出
+D.镜像复制
+Answer: ABCD
+Q40.(多选)在华为公有云中，私有镜像包括?
+A.市场镜像
+B.系统镜像
+C.数据镜像
+D.共享镜像
+Answer: BC
+Q41.(多选)docker run -p 6379:6379 v $PWD/data:/data -d t_arm64v8/centos_ redis:5.05 redis server --appendonly yes关于此命令的描述，以下哪些是正确的?
+A.“6379:6379" :将主机的6379端口映射到容器的6379端口
+B.“appendonly yes"，打开持久化配置
+C.该命令功能是启动容器，并在容器启动时候执行容器内的redis-server服务
+D.“$PWD/data: /data" :将主机中当前目录下的data挂载到容器的/data
+Answer: BCD
+Q42.(多选)使用华为鲲鹏代码迁移工具对源码进行扫描分析时，需要进行哪些方面的检查和分析?
+A.检查x86平台与鲲鹏平台相异的编译器宏、编译选项、buildin函数、attribute函数等列表
+B.对比输入的(S0文件名)列表和S0依赖库白名单
+C.扫描分析用户软件目标二进制文件依赖的源文件集合
+D.检查Make file中的编译链接
+Answer: ABCD
+Q43.(多选)C/C++语言开发的源码在编译时，以下哪些模块是不需要的？
+A.汇编器
+B.存储器
+C.加载器
+D.编译器
+Answer: BC
+Q44.(多选)以下哪些是Tai Shan大数据方案使用的主要服务器型号?
+A.2280均衡型
+B.5280存储型
+C.XA320计算节点
+D.X6000高密型
+Answer: AB
+Q45.(多选)以下关于华为鲲鹏920的特点描述正确的有哪些?
+A.性能可匹配Intel Skylake(V5) 高端处理器型号
+B.CPU最多支持2个100GE网口，支持RoCE特性
+C.相比同等性能的Intel处理器，功耗更低
+D.支持8内存通道，带宽高于Intel Skyl ake (V5)的6通道
+Answer: CD
+Q46.yum和rpm安装方式本质都是基于RPM包来安装软件
+A.正确
+B.错误
+Answer: A
+Q47.交叉编译是在一个平台 上生成另一个平台上可执行的代码
+A.正确
+B.错误
+Answer: A
+Q48.BenchmarkSQL使用GCC编译进行编译安装
+A.正确
+B.错误
+Answer: B
+Q49.Dockerfile中的每一条指令 都分别对应镜像的每一层
+A.正确
+B.错误
+Answer: A
+Q50.C/C++语言属于编译型语言，其编译后得到的可执行程序执行时依赖的指令是与CPU架构不相关的，因此此类应用程序不需要移植
+A.正确
+B.错误
+Answer: B
+Q51.Centos是开源的操作系统，Debian不属于开源操作系统
+A.正确
+B.错误
+Answer: B
+Q52.Tai Shan服务器的CPU是ARM架构的
+A.正确
+B.错误
+Answer: A
+Q53.华为鲲鹏云服务产品发布前，需要先加入鲲鹏凌云伙伴计划并通过鲲鹏云服务兼容性认证
+A.正确
+B.错误
+Answer: A
+Q54.通过"ps -ef | grep PostgreSQL ”命令可以确认数据库进程是否启动
+A.正确
+B.错误
+Answer: B
+Q55.为方便客户业务的统一部署， 镜像服务建立起了镜像与弹性云服务器之间、镜像与裸金属服务器之间、以及镜像与外部文件之间的直接联系。
+A.正确
+B.错误
+Answer: A
+Q56.一个弹性公网IP能同时给多个弹性云服务器使用
+A.正确
+B.错误
+Answer: B
+Q57.华为鲲鹏性能优化工具支持分析C/C+ +和Java Mixed-Mode两种应用程序类型。
+A.正确
+B.错误
+Answer: A
+Q58.对于Java类应用程序进行性能分析时，由于受java的jit编译的限制，函数分析结果中只能查看到对应的源码，无法查看汇编和代码流图。
+A.正确
+B.错误
+Answer: A
+Q59.HiBench支持在编译时指定编译模块。
+A.正确
+B.错误
+Answer: A
+Q60.docker的基础镜像中包含父镜像。
+A.正确
+B.错误
+Answer: B
+Q61.华为鲲鹏云服务可提供KC1型ECS和KS1型BMS
+A.正确
+B.错误
+Answer: A
+Q62.Tai Shan服务器必须使用特殊的专有内存和硬盘
+A.正确
+B.错误
+Answer: B
